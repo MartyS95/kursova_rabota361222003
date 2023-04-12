@@ -7,6 +7,18 @@ int main() {
     int n;
     int b = 0;
     int index = 0;
+    cout << 
+       "Da se sustavi programa za obrabotka na masiva A[N,N], kudeto dannite sa celi chisla v intervala [-1000;1000]
+        Programata da izvurshi slednite deistviq:
+        otpechatvane na uslovieto
+        otpechatvane na imenata na avtora na programata 
+        vuvejdane na vhodnite danni 
+        otpechatvane na vhodnite danni
+        a)da se obrazuva ednomeren masiv C[N] elementite na koito sa broq polojitelnite elementi na syotvetniq red ot masiv A 
+        b)polucheniqt masiv da se sortira po golemina
+        otpechatvane na poluchenite rezultati sled obrabotka a) i b)
+        "<<endl;
+    cout << "Avtor: Martin Simeonov Simeonov 361222003";
     cout << "Enter the size of the array A: ";
     cin >> n;
     
